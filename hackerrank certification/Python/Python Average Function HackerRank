@@ -14,8 +14,8 @@ def avg(*num):
     sum=0
     for i in num:
         sum=sum+i
-        moy=sum/len(num)
-    return(moy)
+        aver=sum/len(num)
+    return(aver)
 
     
 
